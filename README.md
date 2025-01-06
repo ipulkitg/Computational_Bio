@@ -43,7 +43,7 @@ This repository contains six assignments completed for **CSE 494/559: Algorithms
 
 ---
 
-### 📊 Project 6: Clustering (Optional)
+### 📊 Project 6: Clustering
 - K-means clustering (hard) via Lloyd's Algorithm.
 - Soft K-means clustering via EM with a stiffness parameter.
 - 📂 Folder includes: `kmeans_hard.py`, `kmeans_soft.py`, and README.
